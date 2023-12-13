@@ -1,0 +1,55 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.diffbg {
+    background-color: darkolivegreen;
+}
+
+body{
+    background-color: rgb(97, 135, 112);
+}
+
+.banner-card{
+    position: relative;
+}
+.banner-card img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 160px 160px 160px 160px;
+    display: block;
+        border: solid rgb(193, 200, 181);
+        margin: auto;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        padding: 10px;
+}
+.banner-text{
+    position: absolute;
+    top: 0%;
+    right: 49%;
+    color: rgb(54, 74, 19);
+    padding: 10px;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.list{
+    color: white;
+    font-size: large;
+    position: absolute;
+    right: 42%;
+    top: 12%;
+
+}
+.notes{
+    color: white;
+    font-size: xx-large;
+    position: absolute;
+    right: 39%;
+    top: 9%;
+
+}
+
+.video{
+    text-align: center;
+}
